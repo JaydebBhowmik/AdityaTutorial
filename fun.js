@@ -139,7 +139,7 @@ randomArr.push("test string")
 
 //unshift remove a value frem an arr from first position
 
-// randomArr.unshift(100)
+randomArr.unshift(100)
 // console.log("unshift",randomArr)
 
 
@@ -157,12 +157,6 @@ function chkArr(arr) {
     return resultArrray;
 }
 console.log("chkArr>>>>>>>>>>>>>>>>>>>>>>>>>>>",chkArr(randomArr))
-
-
-
-
-
-
 
 
 //3. Create a function that takes the age in years and returns the age in days.
